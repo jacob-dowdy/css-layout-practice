@@ -24,3 +24,16 @@ h1 {
     color: white;
     width: 600px;
 }
+
+#box3-holder {
+    margin: 10px;
+}
+
+#box3 {
+    background-color: lightgreen;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0 auto;
+    color: white;
+    max-width: 600px;
+}

@@ -2,3 +2,7 @@ body {
     background-color: lightblue;
 }
 
+#box1 {
+    background-color: lightslategray;
+    border: 2px solid black;
+}

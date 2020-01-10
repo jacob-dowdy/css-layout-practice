@@ -37,3 +37,22 @@ h1 {
     color: white;
     max-width: 600px;
 }
+
+#box4 {
+    width: 500px;
+    background-color: lightcoral;
+    border: 5px solid black;
+    color: white;
+    margin: 20px auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#box5 {
+    width: 500px;
+    background-color: lightcoral;
+    border: 5px solid black;
+    color: white;
+    margin: 20px auto;
+}
